@@ -1,0 +1,20 @@
+{
+  "name": "virtual-clock",
+  "version": "1.0.0",
+  "description": "A website where the you can see a clock running at the current time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandering-sage/virtual-clock.git"
+  },
+  "author": "Shivam Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandering-sage/virtual-clock/issues"
+  },
+  "homepage": "https://github.com/wandering-sage/virtual-clock#readme"
+}
