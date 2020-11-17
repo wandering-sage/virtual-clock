@@ -20,7 +20,9 @@ animateClockHand(hrHand, hrInit, 3600 * 60);
 var digTime = document.querySelector(".disp-Time");
 setInterval(fillTime, 100);
 
-// Functions
+// *************************Functions***************************
+// *************************************************************
+
 function animateClockHand(hand, init, time) {
     hand.animate([{ transform: `rotate(${init}deg)` }, { transform: `rotate(${init + 360}deg)` }], {
         // timing options
