@@ -15,6 +15,10 @@
 </p>
 </div>
 
+## Project in Action
+
+<img src="src/Images/Screenshot.PNG">
+
 ## Getting Started
 - Clone this repo and unzip the folder wherever you want.
 - Launch your **Terminal** or **Command prompt**
@@ -30,8 +34,6 @@ npm start
 - The website will be running at [http://127.0.0.1:3000/](http://127.0.0.1:3000/)
 - Enjoy!
 
-## Project in Action
 
-<img src="src/Images/Screenshot.PNG">
 
 
